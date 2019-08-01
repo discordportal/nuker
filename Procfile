@@ -1,1 +1,1 @@
-worker: node nuke.py
+worker: python nuke.py
